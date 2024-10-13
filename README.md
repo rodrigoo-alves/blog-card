@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/i-used-plain-css-and-html-JeqEqJcvHH)
-- Live Site URL: [Add live site URL here](https://rodrigoo-alves.github.io/qr-code-component-main/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/blog-preview-card-RNEaoA1vl8)
+- Live Site URL: [Add live site URL here](hhttps://rodrigoo-alves.github.io/blog-card/)
 
 ### Built with
 
@@ -36,4 +36,4 @@ I want to improve my CSS style so I can make webpages styles more easly
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@rodrigoo-alves](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@rodrigoo-alves](https://www.frontendmentor.io/profile/rodrigoo-alves)
